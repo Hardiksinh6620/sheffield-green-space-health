@@ -4,3 +4,4 @@ These notes were assembled in 2026 as transparent extensions to finalized course
 
 ## Index
 - [Population Denominator: reproduction step](2024/05/06-population-denominator-reproduction-step.md)
+- [Spatial Context: audit question](2024/05/13-spatial-context-audit-question.md)
